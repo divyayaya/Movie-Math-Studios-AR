@@ -1,11 +1,6 @@
-# A-Frame Project
+# Movie Math Studios AR Experience
 
-**[Subscribe to the A-Frame newsletter!](https://aframe.io/subscribe/)**
-
-**[Sponsor us to help support A-Frame development and its community](https://github.com/sponsors/dmarcos)**
+**This project was built using AR.js library for creating an Augmented Reality experience on the web for clients to view upon entering Movie Math Studios offices across India**
+**Presenting an immersive experience created using location-based AR**
 
 Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences.
-
-Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Quest, desktop, mobile platforms.
-
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://aframe.io/docs/0.8.0/introduction/vr-headsets-and-webvr-browsers.html)!
